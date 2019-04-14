@@ -1,99 +1,331 @@
 item {
   id: 1
-  name: 'aeroplane'
+  name: 'label_00011325' 
 }
 
 item {
   id: 2
-  name: 'bicycle'
+  name: 'label_00014557'
 }
 
 item {
   id: 3
-  name: 'bird'
+  name: 'label_00014561'
 }
 
 item {
   id: 4
-  name: 'boat'
+  name: 'label_00015905' 
 }
 
 item {
   id: 5
-  name: 'bottle'
+  name: 'label_00015906' 
 }
 
 item {
   id: 6
-  name: 'bus'
+  name: 'label_00015907' 
 }
 
 item {
   id: 7
-  name: 'car'
+  name: 'label_00020162'
 }
 
 item {
   id: 8
-  name: 'cat'
+  name: 'label_00021105'
 }
 
 item {
   id: 9
-  name: 'chair'
+  name: 'label_00021624' 
 }
 
 item {
   id: 10
-  name: 'cow'
+  name: 'label_00030424'
 }
 
 item {
   id: 11
-  name: 'diningtable'
+  name: 'label_00030448'
 }
 
 item {
   id: 12
-  name: 'dog'
+  name: 'label_00030453'
 }
 
 item {
   id: 13
-  name: 'horse'
+  name: 'label_00032190'
 }
 
 item {
   id: 14
-  name: 'motorbike'
+  name: 'label_00033379'
 }
 
 item {
   id: 15
-  name: 'person'
+  name: 'label_00049294'
 }
 
 item {
   id: 16
-  name: 'pottedplant'
+  name: 'label_00049295'
 }
 
 item {
   id: 17
-  name: 'sheep'
+  name: 'label_00049296'
 }
 
 item {
   id: 18
-  name: 'sofa'
+  name: 'label_00049378' 
 }
 
 item {
   id: 19
-  name: 'train'
+  name: 'label_00050882'
 }
 
 item {
   id: 20
-  name: 'tvmonitor'
+  name: 'label_00050886'
+}
+item {
+  id: 21
+  name: 'label_00050887' 
+}
+
+item {
+  id: 22
+  name:  'label_00050965' 
+}
+
+item {
+  id: 23
+  name:  'label_00052555'
+}
+
+item {
+  id: 24
+  name: 'label_00052556' 
+}
+
+item {
+  id: 25
+  name: 'label_00052557'
+}
+
+item {
+  id: 26
+  name: 'label_00052558' 
+}
+
+item {
+  id: 27
+  name:  'label_00052559'
+}
+
+item {
+  id: 28
+  name: 'label_00052560'
+}
+
+item {
+  id: 29
+  name: 'label_00053853' 
+}
+
+item {
+  id: 30
+  name: 'label_00054501'
+}
+
+item {
+  id: 31
+  name:  'label_00057855'
+}
+
+item {
+  id: 32
+  name: 'label_00057856'
+}
+
+item {
+  id: 33
+  name:'label_00060668' 
+}
+
+item {
+  id: 34
+  name:  'label_00060691' 
+}
+
+item {
+  id: 35
+  name:  'label_00060885'
+}
+
+item {
+  id: 36
+  name: 'label_00062390'
+}
+
+item {
+  id: 37
+  name:  'label_00062393'
+}
+
+item {
+  id: 38
+  name: 'label_00062394'
+}
+
+item {
+  id: 39
+  name: 'label_00062395'
+}
+
+item {
+  id: 40
+  name: 'label_00062396' 
+}
+item {
+  id: 41
+  name: 'label_00062397' 
+}
+
+item {
+  id: 42
+  name:'label_00062412'
+}
+
+item {
+  id: 43
+  name:  'label_00062413'
+}
+
+item {
+  id: 44
+  name: 'label_00062434'
+}
+
+item {
+  id: 45
+  name: 'label_00062435' 
+}
+
+item {
+  id: 46
+  name: 'label_00062436' 
+}
+
+item {
+  id: 47
+  name:  'label_00062447'
+}
+
+item {
+  id: 48
+  name: 'label_00062537'
+}
+
+item {
+  id: 49
+  name: 'label_00062538'
+}
+
+item {
+  id: 50
+  name: 'label_00062541'
+}
+
+item {
+  id: 51
+  name: 'label_00062559'
+}
+
+item {
+  id: 52
+  name: 'label_00066416'
+}
+
+item {
+  id: 53
+  name: 'label_00066417' 
+}
+
+item {
+  id: 54
+  name: 'label_00069581'
+}
+
+item {
+  id: 55
+  name: 'label_00069582'
+}
+
+item {
+  id: 56
+  name: 'label_00070844'
+}
+
+item {
+  id: 57
+  name: 'label_00070845' 
+}
+
+item {
+  id: 58
+  name: 'label_00073597' 
+}
+
+item {
+  id: 59
+  name: 'label_00073675'
+}
+
+item {
+  id: 60
+  name: 'label_00073709'
+}
+
+item {
+  id: 61
+  name: 'label_02802507'
+}
+
+item {
+  id: 62
+  name: 'label_02802510' 
+}
+
+item {
+  id: 63
+  name: 'label_02802511'
+}
+item {
+  id: 64
+  name: 'label_03001210'
+}
+
+item {
+  id: 65
+  name: 'label_03001211' 
+}
+
+item {
+  id: 66
+  name: 'label_03001220' 
+}
+
+item {
+  id: 67
+  name: 'label_03100931'
 }
